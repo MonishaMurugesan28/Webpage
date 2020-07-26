@@ -1,0 +1,539 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color:black;
+}
+p.main,p.text-left{
+    
+    font-family: 'Josefin Sans', sans-serif;
+    color:#484848;
+}
+.badge{
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    /* font-size:10px; */
+    text-align: center;
+    
+}
+.badge2{
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    font-size:13px;
+    text-align: center;
+    
+}
+.badge3{
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    font-size:13px;
+    text-align: center;
+    
+}
+.badge4{
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    font-size:13px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 15px;
+}
+.badge5{
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    font-size:13px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 15px;
+}
+.name{
+    position: relative;
+    left: 7px;
+    top: 6px;
+    left: 51px;
+}
+.name2 {
+    position: absolute;
+    top: 19px;
+    left: 35px;
+}
+.datetime2 {
+    position: absolute;
+    top: 22px;
+    right: 10px;
+}
+span.badge1.badge-pill.align-middle {
+    position: absolute;
+    right: 10px;
+    font-size:12px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+    top: 8px;
+}
+
+span.badge2.badge-pill.align-middle {
+    position: absolute;
+    top: 350px;
+}
+span.badge31.badge-pill.align-middle {
+    position: relative;
+    right: 4px;
+    top: 0px;
+    font-size:12px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color:#D0D0D0;
+}
+span.badge41.badge-pill.align-middle {
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #D0D0D0;
+}
+span.badge51.badge-pill.align-middle {
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #D0D0D0;
+}
+.details{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 39px;
+    word-spacing: 10rem;
+    left: 16px;
+}
+.details3{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    word-spacing: 10rem;
+}
+.details4{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    word-spacing: 10rem;
+}
+.details5{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    word-spacing: 10rem;
+}
+.c1 {
+    position: relative;
+    top: 90px;
+    left: px;
+    right: 75px;
+    width: 500px;
+    height: 30px;
+    y: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    }
+.c1 card-body{
+    font-family: 'Poppins', sans-serif;
+    flex: 1 1 auto;
+    padding: 0rem;
+    font-size: 15px;
+    }
+.c2 {
+    position: absolute;
+    top: 100px;
+    left: 12px;
+    width: 500px;
+    height: 10px;
+}
+.c3{
+    position: absolute;
+    top: 95px;
+    left: 12px;
+    width: 500px;
+}
+.c4{
+    position: absolute;
+    top: 90px;
+    left: 12px;
+    width: 500px;
+}
+.c5{
+    position: absolute;
+    top: 95px;
+    left: 12px;
+    width: 500px;
+}
+.card.bg-light.text-dark {
+    height: 30px;
+}
+     .button1{ 
+        cursor: pointer;  
+        position: relative;
+        left: 100px;
+        bottom: 1000px;
+    }
+    .card-body {
+        padding-top: 0px;
+    }
+    .card {
+        position: sticky;
+    }
+
+.btn:not(:disabled):not(.disabled) {
+        cursor: pointer;
+    }
+
+.container,.container2,.container3,.container4,.container5{
+        margin-left: 0px;
+       
+    }
+/* .container2{
+        margin-left: 0px;
+       
+    } */
+.E12{
+        font-family: 'Poppins', sans-serif;
+            position: absolute;
+            top: 250px;
+            right:10px;
+        }
+.E22 {
+        position: absolute;
+        top: 380px;
+        right: 10px;
+    }
+.E33 {
+        position: absolute;
+        top: 500px;
+        right: 10px;
+    }
+.E43 {
+        position: absolute;
+        top: 620px;
+        right: 10px;
+    }
+.E53 {
+        position: absolute;
+        top: 743px;
+        right: 10px;
+    }
+span.badge2.badge-pill.align-middle {
+        position: absolute;
+        top: 20px;
+        left: 16px;
+    }
+span.badge3.badge-pill.align-middle {
+        position: absolute;
+        top: 53x;
+        left: 15px;
+    }
+.name3.col-sm{
+        position: absolute;
+        top: 16px;
+        left: 36px;
+    }
+.name4.col-sm{
+    position: absolute;
+    top: 14px;
+    left: 35px;
+    }
+.name5.col-sm{
+    position: absolute;
+    top: 13px;
+    left: 35px;
+    }
+p.E21 {
+        position: absolute;
+        top: 55px;
+        left: 20px;
+        word-spacing: 10rem;
+    }
+.container-main{
+    position: relative;
+    top: 10px;
+    left: 650px;
+    width: 394px;
+}
+.container-main2{
+    position: relative;
+    top: 0px;
+    left: 650px;
+    width: 394px;
+}
+.container-main3{
+    position: relative;
+    top: 0px;
+    left: 650px;
+    width: 394px;
+}
+.container-main4{
+    position: relative;
+    top: 0px;
+    left: 650px;
+    width: 394px;
+}
+.container-main5{
+    position: relative;
+    top: 0px;
+    left: 650px;
+    width: 394px;
+}
+.tab-pane{
+    position: absolute;
+    top:70px;
+}
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:1.5rem;
+    font-weight: bold; 
+    /* padding-bottom: 1.5rem; */
+   
+}
+.border {
+    border-width:3px !important;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    font-size: 15px;
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #6d7fcc;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #6d7fcc;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+a.download {
+    background: #fff;
+    color: #7386D5;
+}
+
+a.article,
+a.article:hover {
+    background: #6d7fcc !important;
+    color: #fff !important;
+}
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: calc(100% - 250px);
+    padding: 40px;
+    min-height: 100vh;
+    transition: all 0.3s;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#content.active {
+    width: 100%;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #content {
+        width: 100%;
+    }
+    #content.active {
+        width: calc(100% - 250px);
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+.container{
+    position: absolute;
+    /* background-color: cornflowerblue; */
+    width: 997px;
+    height: 133px;
+}
+.container-main,.container-main2,.container-main3,.container-main4,.container-main5{
+    visibility: hidden;
+}
+.widthChange{
+    width:600px;
+}
+.sno {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.container2 {  
+    top: 363px; 
+    position: absolute;
+    /* background-color: blueviolet; */
+    width: 997px;
+    height: 133px;
+}
+.container3 {
+    position: absolute;
+    height: 138px;
+    top: 515px;
+    width: 1001px;
+    /* background-color: brown; */
+}
+.container4 {
+    position: absolute;
+    /* background-color: fuchsia; */
+    top: 655px;
+    width: 1000px;
+    height: 132px;
+}
+.container5 {
+    position: absolute;
+    /* background-color: darkmagenta; */
+    /* top: 840px; */
+}
+.container5 {
+    position: absolute;
+    /* background-color: darkmagenta; */
+    top: 790px;
+    width: 1000px;
+    height: 140px;
+}
